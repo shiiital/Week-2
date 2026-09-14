@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Inspirational Quotes</title>
+</head>
+<body>
+  <h1>Inspirational Quotes</h1>
+
+  <p>
+    As Albert Einstein once said, <q>Imagination is more important than knowledge</q>, 
+    reminding us of the power of creativity.
+  </p>
+
+  <blockquote>
+    <p>The only way to do great work is to love what you do.</p>
+    <footer>— <cite>Steve Jobs</cite>, from a book I read in school</footer>
+  </blockquote>
+
+  <blockquote>
+    <p>In the middle of every difficulty lies opportunity.</p>
+    <footer>— <cite>Albert Einstein</cite>, from a book I read in school</footer>
+  </blockquote>
+
+  <blockquote>
+    <p>Reading gives us someplace to go when we have to stay where we are.</p>
+    <footer>— <cite>Mason Cooley</cite>, from a book I read in school</footer>
+  </blockquote>
+
+  <details>
+    <summary>About these quotes</summary>
+    <p>
+      All of these quotes were collected from books I read in school. 
+      They inspired me during my studies and continue to motivate me today. 
+      Later, I also checked some of them on the <abbr title="World Wide Web">WWW</abbr>, 
+      but their original source was my school reading.
+    </p>
+  </details>
+</body>
+</htm

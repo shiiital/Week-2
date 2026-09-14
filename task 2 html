@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Portfolio - Sheetal Achhami</title>
+</head>
+<body>
+  <header>
+    <h1>Sheetal Achhami</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#skills">Skills</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    
+    <section id="about">
+      <h2>About Me</h2>
+      <figure>
+        <img src="https://picsum.photos/400/250?random=30" 
+             alt="A beautiful sky with scattered clouds" 
+             width="400" height="250">
+        <figcaption>Figure: A calming sky view</figcaption>
+      </figure>
+      <p>
+        I am passionate about <abbr title="HyperText Markup Language">HTML</abbr> 
+        and web development. I enjoy reading novels and exploring creative projects, 
+        and I always <mark>strive to learn new technologies</mark>.
+      </p>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects">
+      <h2>Projects</h2>
+      <article>
+        <header>
+          <h3>Personal Blog</h3>
+          <p>Published on <time datetime="2026-09-10">September 10, 2026</time></p>
+        </header>
+        <p>
+          A fully semantic blog built with HTML5 elements, styled with CSS, and 
+          enhanced with accessibility features. It demonstrates my ability to 
+          structure content meaningfully.
+        </p>
+      </article>
+    </section>
+
+    
+    <aside id="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>HTML & CSS</li>
+        <li>JavaScript</li>
+        <li>Python</li>
+        <li>C#</li>
+      </ul>
+    </aside>
+
+    
+    <section id="contact">
+      <h2>Contact</h2>
+      <address>
+        Phone: <a href="tel:01068509139">010-68509139</a><br>
+        Email: <a href="mailto:shitalshital1887@gmail.com">shitalshital1887@gmail.com</a><br>
+        Location: Kathmandu, Nepal
+      </address>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Sheetal Achhami. All rights reserved.</p>
+  </footer>
+</body>
+</html>
